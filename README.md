@@ -68,9 +68,15 @@
 <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="intellij" title="intellij" width="40" height="40"/> 
 </p>
     
-<!-- Contact Section -->
 
-# [Check out my portfolio](https://avinashverma.dev)
+
+# [CodeSphere](https://codespr.netlify.app)
+# [FileShare247](https://fileshare247.netlify.app/)
+# [AceType](https://acetype.netlify.app/)
+# [QRCode_Generator](https://avinashvermaaa.github.io/qrcode_generator/)
+# [My Portfolio](https://av69portfolio.netlify.app/)
+
+<!-- Contact Section -->
 <h3 align="left"><font size="+2" face="Verdana">Connect with me:</font></h3>
 <p align="left">
 <!--     [![Portfolio](https://cdn.worldvectorlogo.com/logos/apple-macbook-pro.svg)](https://av69portfolio.netlify.app/) -->
