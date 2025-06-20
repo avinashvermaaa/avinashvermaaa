@@ -70,11 +70,14 @@
     
 
 
-# [CodeSphere](https://codespr.netlify.app)
-# [FileShare247](https://fileshare247.netlify.app/)
-# [AceType](https://acetype.netlify.app/)
-# [QRCode_Generator](https://avinashvermaaa.github.io/qrcode_generator/)
-# [My Portfolio](https://av69portfolio.netlify.app/)
+| S.No. | Project Name       | Link                                                  |
+|-------|--------------------|-------------------------------------------------------|
+| 1     | CodeSphere          | [Visit](https://codespr.netlify.app)                 |
+| 2     | FileShare247        | [Visit](https://fileshare247.netlify.app/)           |
+| 3     | AceType             | [Visit](https://acetype.netlify.app/)                |
+| 4     | QRCode_Generator    | [Visit](https://avinashvermaaa.github.io/qrcode_generator/) |
+| 5     | My Portfolio        | [Visit](https://av69portfolio.netlify.app/)          |
+
 
 <!-- Contact Section -->
 <h3 align="left"><font size="+2" face="Verdana">Connect with me:</font></h3>
