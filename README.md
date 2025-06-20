@@ -66,10 +66,13 @@
 <img src="https://cdn.worldvectorlogo.com/logos/atom-4.svg" alt="atom" title="atom" width="40" height="40"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="intellij" title="intellij" width="40" height="40"/> 
 </p>
-
+    
 <!-- Contact Section -->
+
+# [Check out my portfolio](https://avinashverma.dev)
 <h3 align="left"><font size="+2" face="Verdana">Connect with me:</font></h3>
 <p align="left">
+<!--     [![Portfolio](https://cdn.worldvectorlogo.com/logos/apple-macbook-pro.svg)](https://av69portfolio.netlify.app/) -->
 </p>
 
 <!--
