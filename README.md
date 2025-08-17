@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Avinash Verma
+## Hi there <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="35" height="45"/>, I'm Avinash Verma
 ![](https://komarev.com/ghpvc/?username=avinashvermaaa&color=brightgreen)
 <!-- GIF -->
 <img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
