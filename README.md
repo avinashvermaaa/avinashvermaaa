@@ -1,103 +1,136 @@
-## Hi there <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="35" height="45"/>, I'm Avinash Verma
-![](https://komarev.com/ghpvc/?username=avinashvermaaa&color=brightgreen)
-<!-- GIF -->
-<img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+<div align="center">
 
-#### Programming Language Stack
-<p align="left"> 
-    <img src="https://raw.githubusercontent.com/github/explore/b15b6cf1726418913aafbf337a749dded180279d/topics/c/c.png" alt="c"title="c" width="40"height="40"/> 
-    <img src="https://www.vectorlogo.zone/logos/isocpp/isocpp-icon.svg" alt="c"title="c"width="40"height="40"/> 
-    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" title="python" width="40" height="40"/> 
-    <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" title="java8" width="40" height="40"/>  
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" title="javascript" width="40" height="40"/> 
+# Hello <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="35" height="45"/>.
+
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=2800&pause=900&color=FF8C00&center=true&vCenter=true&multiline=false&width=900&height=60&lines=Avinash+Kumar;Backend+%E2%80%A2+Platform+%E2%80%A2+AI+Engineer;Building+Scalable+Backend+Systems" alt="typing" />
+
+
+![](https://komarev.com/ghpvc/?username=avinashvermaaa&color=orange&style=for-the-badge)
+
+<img src="https://img.shields.io/github/followers/avinashvermaaa?label=Followers&style=social"/>
+
+<img src="https://img.shields.io/github/stars/avinashvermaaa?affiliations=OWNER%2CCOLLABORATOR&style=social"/>
+
+<img src="https://img.shields.io/badge/OPEN_TO-Dev_roles-orange?style=flat-square&labelColor=000000&color=FF6B35" />
+
+</div>
+
+---
+
+<img align="right" height="456" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+
+##  About Me
+Backend Engineer `building fast`, `scalable`, and `high-performance systems`.
+
+I specialize in:
+-  Designing scalable backend architectures & system design
+-  Microservices & distributed systems
+-  Low-latency, high-throughput API design
+-  Databases: schema design, sharding, partitioning, replication & caching strategies
+- Event-driven systems (queues, streams, async processing, scheduled jobs)
+-  Cloud-native systems: containerization, CI/CD, and deployments
+-  Performance tuning, observability & reliability engineering
+
+I `enjoy solving complex engineering problems` and `building systems that remain resilient as complexity and load grow`.
+
+---
+
+# ⚙️ Tech Stack
+
+## Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,typescript" />
 </p>
 
-#### Web. Dev. Stack
+## Frontend
 <p align="left">
-    <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" title="html" width="40" height="40"/> 
-    <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon~old.svg" alt="css" title="css" width="40" height="40"/> 
-    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" title="javascript" width="40" height="40"/> 
-    <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="Typescript" title="Typescript" width="40" height="40"/> 
-    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21~bgwhite.svg" alt="reactjs" title="reactjs" width="40" height="40"/> 
-    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21~bgwhite.svg" alt="nodejs" title="nodejs" width="40" height="40"/> 
-    <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21~bgwhite.svg" alt="express.js" title="express.js" width="40" height="40"/> 
-    <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21~bgwhite.svg" alt="next.js" title="next.js" width="40" height="40"/> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21~bgwhite.svg" alt="tailwindcss" title="tailwindcss" width="40" height="40"/> 
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,redux" />
 </p>
 
-#### Database Stack
+## Backend
 <p align="left">
-    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" title="mongodb" width="40" height="40"/> 
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql" title="sql" width="40" height="40"/>
-    <img src="https://cdn.worldvectorlogo.com/logos/mysql-logo-pure.svg" alt="mysql" title="mysql" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="postgresql" title="postgresql" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" title="sqlite" width="40" height="40"/> 
+  <img src="https://skillicons.dev/icons?i=nodejs,express,go,dotnet,django" />
 </p>
 
-
-#### DevOps Stack 
+## Database & Cache & Queue
 <p align="left">
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker" title="docker" width="40" height="40"/>  
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" title="kubernetes" width="40" height="40"/>  
-    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21~bgwhite.svg" alt="aws" title="aws" width="40" height="40"/> 
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" title="gcp" width="40" height="40"/>  
-    <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" title="terraform" width="40" height="40"/> 
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" title="jenkins" width="40" height="40"/>  
-    <img src="https://raw.githubusercontent.com/github/explore/85cceaeeaf993ca35664dc37ea24f9237fbbfc14/topics/nginx/nginx.png" alt="nginx" title="nginx" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" title="firebase" width="40" height="40"/>
-</p>  
-
-#### API / Auth / Platform Tools
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" title="postman" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/nodemonio/nodemonio-icon.svg" alt="newman" title="newman" width="40" height="40"/> 
-  <img src="https://axios-http.com/assets/logo.svg" alt="axios" title="Axios" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/auth0/auth0-ar21~bgwhite.svg" alt="Auth0" title="Auth0" width="40" height="40"/> 
-    <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="supabase" title="Supabase" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,supabase,redis,rabbitmq,kafka" />
 </p>
 
-
-#### Project Management Stack
-<p align="left"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="git" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" title="github" width="40" height="40"/> 
-
-#### Editor / IDE I ♥
+## DevOps & Cloud
 <p align="left">
-<img src="https://cdn.worldvectorlogo.com/logos/sublime-text-3.svg" alt="sublime" title="sublime" width="40" height="40"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="vs-code" title="vs-code" width="40" height="40"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/atom-4.svg" alt="atom" title="atom" width="40" height="40"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="intellij" title="intellij" width="40" height="40"/> 
-</p>
-    
-
-
-| S.No. | Project Name       | Link                                                  |
-|-------|--------------------|-------------------------------------------------------|
-| 1     | CodeSphere          | [Visit](https://codespr.netlify.app)                 |
-| 2     | FileShare247        | [Visit](https://fileshare247.netlify.app/)           |
-| 3     | AceType             | [Visit](https://acetype.netlify.app/)                |
-| 4     | QRCode_Generator    | [Visit](https://avinashvermaaa.github.io/qrcode_generator/) |
-| 5     | LittleLemon        | [Visit](https://github.com/avinashvermaaa/littlelemon)          |
-| 6     | My Portfolio        | [Visit](https://av69portfolio.netlify.app/)          |
-
-
-
-<!-- Contact Section -->
-<h3 align="left"><font size="+2" face="Verdana">Connect with me:</font></h3>
-<p align="left">
-<!--     [![Portfolio](https://cdn.worldvectorlogo.com/logos/apple-macbook-pro.svg)](https://av69portfolio.netlify.app/) -->
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,cloudflare,vercel,netlify,aws,gcp" />
 </p>
 
-<!--
-**avinashvermaaa/avinashvermaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Dev. Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postman,regex,grafana,npm,pnpm,git,github,githubactions" />
+</p>
 
-Here are some ideas to get you started:
+## IDE
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,sublime,atom,replit" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# 🏗️ Featured Projects
+
+| Project | Description | Live Demo |
+|---|---|---|
+| **CodeSphere** | AI-Powered IDE platform | [Visit](https://codespr.netlify.app) |
+| **AceType** | Typing speed test platform | [Visit](https://acetype.netlify.app/) |
+| **FileShare247** | File sharing webapp  | [Visit](https://fileshare247.netlify.app/) |
+| **JSON Merger** | Merge & process JSON | [Visit](https://jsonmergers.netlify.app/) |
+| **Sorting Visualizer** | Visualize sorting algorithms in action | [Visit](https://tracealgo.netlify.app/) |
+
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=avinashvermaaa&theme=transparent&hide_border=true&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35&sideLabels=FF6B35&dates=8b949e&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
+
+<!-- Snake Grid -->
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=avinashvermaaa&theme=react-dark&bg_color=00000000&hide_border=true&color=FF6B35&line=FF6B35&point=FFFFFF" />
+
+</div>
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=avinashvermaaa&theme=darkhub&no-frame=true&row=2&column=6&margin-w=10&margin-h=10" />
+
+</div>
+
+---
+
+# 🌐 Let's build products that impact Billions as long as we're on Earth
+<div align="center">
+<img align="" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3U1ZGs0dHduOHl5dXZhNHVkbzhmem5kZGlyZXdzYjRteDYzc3gzcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pGVrRLHRzoRcQ/giphy.gif" width="360" height="120" />
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Currently Shipping Products Relentlessly.
+`AI Products` • `Open Source` • `Developer Tools` • `Scalable Web Apps`
+</div>
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanFwdGJtaGY5cWVubzlsazNscHU2M245d3huZndrajF2cDU3c2UwayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QQQoLTqkm7v3y/giphy.gif" width="235" height="245"/>
+
+</div>
