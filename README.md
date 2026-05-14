@@ -18,7 +18,7 @@
 
 ---
 
-<img align="right" height="456" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+<img align="right" height="350" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
 ##  About Me
 Backend Engineer `building fast`, `scalable`, and `high-performance systems`.
