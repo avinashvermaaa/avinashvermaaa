@@ -1,3 +1,5 @@
+<img src="header_divider.gif" width="100%">
+
 <div align="center">
 
 # Hello <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="35" height="45"/>.
@@ -134,3 +136,4 @@ I `enjoy solving complex engineering problems` and `building systems that remain
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanFwdGJtaGY5cWVubzlsazNscHU2M245d3huZndrajF2cDU3c2UwayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QQQoLTqkm7v3y/giphy.gif" width="235" height="245"/>
 
 </div>
+<img src="header_divider.gif" width="100%">
