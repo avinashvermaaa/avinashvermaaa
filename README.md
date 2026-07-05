@@ -79,17 +79,16 @@ I `enjoy solving complex engineering problems` and `building systems that remain
 
 # 🏗️ Featured Projects
 
-| Project | Description | Live Demo |
-|---|---|---|
-| **CodeSphere** | AI-Powered IDE platform | [Visit](https://codespr.netlify.app) |
-| **AceType** | Typing speed test platform | [Visit](https://acetype.netlify.app/) |
-| **FileShare247** | File sharing webapp  | [Visit](https://fileshare247.netlify.app/) |
-| **JSON Merger** | Merge & process JSON | [Visit](https://jsonmergers.netlify.app/) |
-| **Sorting Visualizer** | Visualize sorting algorithms in action | [Visit](https://tracealgo.netlify.app/) |
-
-
+| Project                                | Description                                                                                                                                                                                                                                                                                                                                                                                                              | Live Demo                                  |
+| -------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------ |
+| **CodeSphere**                         | CodeSphere is an AI-integrated IDE built for faster, smarter software development. Write, run, compile, and debug code with seamless AI/LLM assistance to improve code quality, accelerate development, and build scalable applications capable of handling billions of requests.                                                                                                                                        | [Visit](https://codespr.netlify.app)       |
+| **AceType**                            | AceType is an AI-powered typing practice platform focused on improving typing speed, accuracy, and consistency through adaptive practice sessions. It features multiple difficulty levels, AI-generated typing content, real-time WPM and accuracy analytics, typing history tracking, Firebase authentication, customizable preferences, and 30+ unique UI themes for an engaging and personalized learning experience. | [Visit](https://acetype.netlify.app/)      |
+| **CryptoTerminal**                     | CryptoTerminal is a demo cryptocurrency trading platform designed for learning and strategy testing. Practice trading with 20+ popular cryptocurrencies including BTC, ETH, XRP, and SOL in a risk-free environment, simulate real-time market conditions, analyze trends, and refine your trading strategies without financial exposure.                                                                                | [Visit](https://cryptoappav.netlify.app/)            |
+| **YouTube Playlist Length Calculator** | Analyze the total duration of YouTube playlists, estimate completion time, generate personalized study schedules, and gain detailed insights through playlist analytics. Perfect for planning courses, tutorials, and long-form educational content.                                                                                                                                                                     | [Visit](https://youtube-playlist-length-calculator-india.vercel.app/)            |
+| **SkillSync**                          | SkillSync is an AI-powered productivity and personal management platform that combines task management, learning progress tracking, expense monitoring, daily time tracking, and goal management in one place. It features calendar-based insights, structured target tracking, Firebase-powered real-time synchronization, secure authentication, password recovery, and JSON/CSV export for seamless data management.  | [Visit](https://avskillsync.netlify.app/)            |
+| **FileShare247**                       | FileShare247 is a secure and streamlined file-sharing platform that enables users to upload, manage, and share files effortlessly. It supports direct shareable links, shortened URLs, and QR code-based sharing for instant cross-device access. Powered by Firebase and Cloudinary, it also features automatic file deletion after 7 days for efficient storage management and enhanced privacy.                       | [Visit](https://fileshare247.netlify.app/) |
+| **JSON Merger**                        | Merge, validate, and process multiple JSON files with an intuitive interface, making JSON manipulation faster and more efficient for developers.                                                                                                                                                                                                                                                                         | [Visit](https://jsonmergers.netlify.app/)  |
 ---
-
 # 📊 GitHub Stats
 
 <div align="center">
@@ -107,23 +106,6 @@ I `enjoy solving complex engineering problems` and `building systems that remain
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=avinashvermaaa&theme=react-dark&bg_color=00000000&hide_border=true&color=FF6B35&line=FF6B35&point=FFFFFF" />
 
 </div>
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=avinashvermaaa&theme=darkhub&no-frame=true&row=2&column=6&margin-w=10&margin-h=10" />
-
-</div>
-
----
-
-# 🌐 Let's build products that impact Billions as long as we're on Earth
-<div align="center">
-<img align="" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3U1ZGs0dHduOHl5dXZhNHVkbzhmem5kZGlyZXdzYjRteDYzc3gzcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pGVrRLHRzoRcQ/giphy.gif" width="360" height="120" />
-</div>
-
----
 
 <div align="center">
 
